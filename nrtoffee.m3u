@@ -42,6 +42,11 @@ http://176.119.29.52/live.ts?channelId=33317&uid=5284&deviceMac=00:1A:79:17:C0:7
 
 
 
+#EXTINF:-1 tvg-id="akash29" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927885394.png" group-title="AkashGO", Jalsha Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Uqquz57boDgHfweoqU9_Tg", "kid": "7--0hzyVR9Ghp6CsLumLTg"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/a1a4886d7bdd4797a0eebb69e2c67554/index.mpd
+
 #EXTINF:-1 tvg-id="akash8" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911502434.png" group-title="AkashGO", Star Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "hWWvHjFoTp00A4jEXl4L0w", "kid": "RpWWmvdvRh6oP6_Vb8MBMw"}], "type": "temporary"}
