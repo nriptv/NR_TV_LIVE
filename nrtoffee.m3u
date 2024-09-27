@@ -62,3 +62,15 @@ http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QCCFhSh/20240817-133814.png" group-title="SR Entertainment", Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/tLLkJDk/FB-IMG-1726704780368.jpg" group-title="SR BDIX Bangladesh" ,Toofan (2024) Hoichoi
+https://pixeldra.in/api/file/YNL3cUKj?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qrLHxvF/FB-IMG-1726704796000.jpg" group-title="SR BDIX Bangladesh" ,Toofan (2024) Chorki
+https://pixeldra.in/api/file/s73GTpKW?download
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/prv6dKvP/cf8c251f68ae37ee413224a99e329e2eb0d932335c34bc7aaa76ea379d04b488.jpg" group-title="SR BDIX Bangladesh" ,Toofan (2024) AMZN
+https://pixeldra.in/api/file/LFKUXJ6Z?download
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/S3cXBWh/IMG-9255.jpg" group-title="SR BDIX Bangladesh" ,Toofan (2024) 1080p Raw Hoichoi
+https://rty67.b-cdn.net/upload/videos/2024/09/[Fibwatch.Com]Toofan.2024.Bengali.Raw.1080p.mkv
