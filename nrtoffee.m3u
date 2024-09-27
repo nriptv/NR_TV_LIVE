@@ -51,32 +51,14 @@ http://45.143.220.177:8080/live/1671716161/2671717278/75317.m3u8?token=HhZfUENZQ
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VBKhBmy/20240815-181253.png" group-title="SR Entertainment" ,Star Jalsha HD
 http://217.20.112.199/starjalshahd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vccXQhL/20240815-181223.png" group-title="SR Entertainment" ,Colors HD (BDIX)
-http://172.16.29.34/ontest1/ontest1/294
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdQfbjg/20240816-143214.png" group-title="SR Entertainment" ,Colors Bangla HD
 http://217.20.112.199/colorsbangla/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pdQfbjg/20240816-143214.png" group-title="SR Entertainment" ,Colors Bangla FHD
-http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kHtw2YZ/20240816-160121.png" group-title="SR Entertainment" ,Sony TV HD
 https://api.iptvbd.xyz/api/sony_entertainmnt_hd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kHtw2YZ/20240816-160121.png" group-title="SR Entertainment" ,Sony TV HD (BDIX)
-http://172.16.29.34/ontest1/ontest1/395
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7twc8zN/20240818-124547.png" group-title="SR Entertainment" ,Sony Aath
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V2Qf8Pw/20240817-101441.png" group-title="SR Entertainment" ,Sony Sab HD
-https://allinonereborn.com/livetv-web/live.php?id=5094&vtoken=&e=.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QCCFhSh/20240817-133814.png" group-title="SR Entertainment", Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kHtw2YZ/20240816-160121.png" group-title="SR Entertainment" ,Sony Tv FHD
-https://allinonereborn.com/livetv-web/live.php?id=624&vtoken=&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V2Qf8Pw/20240817-101441.png" group-title="SR Entertainment" ,Sony Sab FHD
-http://tv.cloudcdn.me/live.ts?channelId=191&uid=5284&deviceMac=00:1A:79:17:C0:71
