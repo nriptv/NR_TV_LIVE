@@ -80,10 +80,3 @@ https://allinonereborn.com/livetv-web/live.php?id=624&vtoken=&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V2Qf8Pw/20240817-101441.png" group-title="SR Entertainment" ,Sony Sab FHD
 http://tv.cloudcdn.me/live.ts?channelId=191&uid=5284&deviceMac=00:1A:79:17:C0:71
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pdQfbjg/20240816-143214.png" group-title="SR Entertainment" ,Colors Bangla HD (JIO)
-https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_HD_voot_MOB
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vccXQhL/20240815-181223.png" group-title="SR Entertainment" ,Colors HD (JIO)
-https://fifabangladesh.live/VHOD/go.php?id=Colors_HD_voot_MOB
-
