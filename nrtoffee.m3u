@@ -50,7 +50,12 @@ https://medialive.akash-go.com/out/v1/a1a4886d7bdd4797a0eebb69e2c67554/index.mpd
 #EXTINF:-1 tvg-id="akash8" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719911502434.png" group-title="AkashGO", Star Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "hWWvHjFoTp00A4jEXl4L0w", "kid": "RpWWmvdvRh6oP6_Vb8MBMw"}], "type": "temporary"}
-https://medialive.akash-go.com/out/v1/78469781a763488194e5bb57d885dd04/index.mpd
+https://medialive.akash-go.com/out/v1/78469781a763488194e5bb57d885dd04/index.mpd.
+
+#EXTINF:-1 tvg-id="akash18" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1719927447544.png" group-title="AkashGO", ZEE BANGLA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "iJl4_10nGv6Bagovznpdeg", "kid": "bMqG69EVR2i71kGN8QHQyg"}], "type": "temporary"}
+https://medialive.akash-go.com/out/v1/6f0c2ecf1fc24304a006c38e08662b3d/index.mpd
 
 #EXTINF:-1 tvg-id="akash28" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1720359542393.png" group-title="AkashGO", Star Jalsha HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
