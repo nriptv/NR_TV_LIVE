@@ -16,6 +16,13 @@ https://bdiptv24.com/Toffeelive/live.php?id=b1ba8efdd99d&amp;e=.m3u8
 
 https://bdiptv24.com/Toffeelive/live.php?id=e96cb72a3787&amp;e=.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="NR_TV", TOFFEE Movies VIP
+
+https://bdiptv24.com/Toffeelive/live.php?id=99cf56ce2888&amp;e=.m3u8
+
+
+
+
 #EXTINF:-1 xui-id="181" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://172.16.29.34:80/images/37e90e585d59d61d724d118b96fa2538.png" group-title="NR_TV",T SPORTS HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/ts
 
